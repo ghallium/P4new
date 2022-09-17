@@ -653,7 +653,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: black !important;
 }
 
 .container {
@@ -687,6 +687,10 @@ p {
     margin: auto auto auto auto;
 }
 
+blockquote {
+    font-style: italic;
+}
+
 .h1 {
     font-size: 20px;
     font-family: "Open Sans";
@@ -710,6 +714,8 @@ h2 {
     font-size: 22px;
     line-height: 1.4em;
 }
+
+
 
 h3 {
     font-size: 15px;
